@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/8D/2DL35U9DGU33NZZP12T4G2.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0P/9CDBFUSK7RUZFECGAB3KXA.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/24/RPAWDJW9FQAMU42GSBH7AO.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/85/E9CQKMMAMSJKLGCTCUYL2N.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BD/9FI2FH57NB7XPNYCNPO5BI.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LJ/GCF6X2TOZXG114PC9XNF3F.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/90/HDJ37P7YJX8CR54QDFAUWG.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DJ/8AZ86SVBRUNGLH8688HPLX.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/UI/XTQ0HEDWHAEP5TWWI7CIXJ.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PM/Q2JZ9E77SDJ3T3XNOCRALU.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/K4/C45COU7XO6TX23AY12LTNV.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FT/KQUCJFW4V5YEIJGMZAA9F6.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/N2/1LOTW8ETNNZBKDFLLWOJ48.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3N/UZ3NONKUFHNIHNPEA2936I.uasset"
+			]
+		}
+	]
+}
